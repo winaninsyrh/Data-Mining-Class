@@ -1,0 +1,225 @@
+Surgery,Age,Hospital Number,Rectal Temperature,Pulse,Respiratory Rate,Temperature of Extremities,Peripheral Pulse,Mucous Membranes,Capillary Refill Time,Pain,Peristalsis,Abdominal Distension,Nasogastric Tube,Nasogastric reflux,Nasogastric Reflux PH,Rectal Examination,Abdomen,Packed Cell volume,Total Protein,Abdominocentesis Appearance,Abdomcentesis Total Protein,Outcome,Surgical Lesion,Type of Lesion,Type of Lesion,Type of Lesion,cp_data
+Without Surgery,1,530101,38.5,66,28,Cool,Reduced,,>=3 second,Continuous Severe Pain,Absent,Severe,,,,Decreased,distended large intestine,45,8.4,,,Died,No,11300,0,0,No
+Surgery,1,534817,39.2,88,20,,,Pale Cyanotic,<3 second,Intermittent Mild Pain,Absent,Slight,,,,Absent,Other,50,85,Cloudy,2,Was Euhanized,No,2208,0,0,No
+Without Surgery,1,530334,38.3,40,24,Normal,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,None,,,,Normal,Normal,33,6.7,,,Lived,No,0,0,0,Yes
+Surgery,9,5290409,39.1,164,84,Cold,Normal,Dark Cyanotic,>=3 second,Depressed,Absent,Severe,None,>1 liter,5,Decreased,?,48,7.2,Serosanguinous,5.3,Died,Yes,2208,0,0,Yes
+Without Surgery,1,530255,37.3,104,35,,,Dark Cyanotic,>=3 second,,,,,,,,,74,7.4,,,Died,No,4300,0,0,No
+Without Surgery,1,528355,,,,Warm,Normal,Pale Pink,<3 second,Depressed,Hypomotile,Slight,Slight,None,,Decreased,firm feces in the large intestine ,,,,,Lived,No,0,0,0,No
+Surgery,1,526802,37.9,48,16,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,None,None,,Decreased,distended large intestine,37,7,,,Lived,Yes,3124,0,0,No
+Surgery,1,529607,,60,,Cool,,,<3 second,,Absent,Slight,Slight,None,,Decreased,distended small intestine,44,8.3,,,Died,Yes,2208,0,0,No
+Without Surgery,1,530051,,80,36,Cool,Absent,Pale Pink,<3 second,Intermittent Severe Pain,Absent,Severe,Slight,None,,Decreased,distended large intestine,38,6.2,,,Was Euhanized,Yes,3205,0,0,No
+Without Surgery,9,5299629,38.3,90,,Normal,,Normal Pink,<3 second,Continuous Severe Pain,Hypomotile,None,Slight,None,,Decreased,,40,6.2,Clear,2.2,Lived,No,0,0,0,Yes
+Surgery,1,528548,38.1,66,12,Cool,Reduced,Bright Red,<3 second,Intermittent Mild Pain,Hypomotile,None,Slight,None,3,Increased,distended large intestine,44,6,Cloudy,3.6,Lived,Yes,2124,0,0,Yes
+Without Surgery,1,527927,39.1,72,52,Warm,,Bright Pink,<3 second,Depressed,Hypermotile,Slight,None,None,,Absent,distended small intestine,50,7.8,,,Lived,Yes,2111,0,0,No
+Surgery,1,528031,37.2,42,12,Warm,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,Significant,None,,Absent,distended large intestine,,7,,,Lived,No,4124,0,0,No
+Without Surgery,9,5291329,38,92,28,Normal,Normal,Bright Pink,<3 second,Alert,Hypomotile,Slight,Significant,,7.2,Normal,Normal,37,6.1,Clear,,Died,No,0,0,0,Yes
+Surgery,1,534917,38.2,76,28,Cool,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Absent,None,Slight,>1 liter,,Absent,distended small intestine,46,81,Clear,2,Lived,Yes,2112,0,0,No
+Surgery,1,530233,37.6,96,48,Cool,Normal,Pale Cyanotic,<3 second,Continuous Severe Pain,Hypomotile,Significant,Slight,<=1 liter,4.5,Absent,,45,6.8,,,Died,Yes,3207,0,0,No
+Surgery,9,5301219,,128,36,Cool,Reduced,Pale Cyanotic,>=3 second,Intermittent Severe Pain,Absent,Significant,Significant,,,Absent,distended large intestine,53,7.8,Serosanguinous,4.7,Died,No,1400,0,0,Yes
+Without Surgery,1,526639,37.5,48,24,,,,,,,,,,,,,,,,,Lived,No,0,0,0,No
+Surgery,1,5290481,37.6,64,21,Normal,Normal,Bright Pink,<3 second,Depressed,Hypomotile,None,None,None,,Increased,distended large intestine,40,7,Clear,,Lived,Yes,4205,0,0,Yes
+Without Surgery,1,532110,39.4,110,35,Cold,Reduced,Dark Cyanotic,,,Hypomotile,Significant,,,,,,55,8.7,,,Lived,No,0,0,0,No
+Surgery,1,530157,39.9,72,60,Normal,Normal,Bright Red,>=3 second,Continuous Severe Pain,Absent,Severe,Significant,None,,Absent,distended small intestine,46,6.1,Cloudy,,Lived,Yes,2111,0,0,No
+Without Surgery,1,529340,38.4,48,16,Normal,,Normal Pink,<3 second,Alert,Hypomotile,None,Slight,<=1 liter,5.5,Absent,firm feces in the large intestine ,49,6.8,,,Lived,No,0,0,0,No
+Surgery,1,521681,38.6,42,34,Warm,Normal,Pale Cyanotic,,Depressed,Hypomotile,None,,,,Normal,,48,7.2,,,Lived,Yes,3111,0,0,No
+Surgery,9,534998,38.3,130,60,,Reduced,,<3 second,Depressed,Absent,,,,,,,50,70,,,Lived,Yes,3111,0,0,No
+Surgery,1,533692,38.1,60,12,Cool,Reduced,Pale Pink,<3 second,,Absent,Significant,Significant,>1 liter,2,,,51,65,,,Lived,Yes,3111,0,0,No
+Without Surgery,1,529518,37.8,60,42,,,,<3 second,,,,,,,,,,,,,Lived,No,0,0,0,No
+Surgery,1,530526,38.3,72,30,Cold,Reduced,Pale Pink,>=3 second,Intermittent Mild Pain,Hypomotile,Significant,Slight,None,,Decreased,distended large intestine,43,7,Cloudy,3.9,Lived,Yes,3111,0,0,Yes
+Surgery,1,528653,37.8,48,12,Cool,Normal,Normal Pink,<3 second,,Hypomotile,Slight,None,None,,Normal,firm feces in the large intestine ,37,5.5,Cloudy,1.3,Lived,No,4122,0,0,Yes
+Surgery,1,5279442,,,,,,,,,,,,,,,,,,,,Died,No,4300,0,0,No
+Without Surgery,1,535415,37.7,48,,Warm,Normal,Normal Pink,<3 second,Alert,Hypermotile,None,None,None,,,,45,76,,,Lived,No,0,0,0,No
+Without Surgery,1,529475,37.7,96,30,Cool,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,Significant,>1 liter,4,Absent,distended large intestine,66,7.5,,,Died,Yes,4205,0,0,No
+Without Surgery,1,530242,37.2,108,12,Cool,Reduced,Pale Cyanotic,>=3 second,Depressed,Absent,Slight,,<=1 liter,6,Decreased,firm feces in the large intestine ,52,8.2,Serosanguinous,7.4,Was Euhanized,Yes,2207,0,0,Yes
+Surgery,1,529427,37.2,60,,Warm,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,Slight,None,,Absent,distended large intestine,43,6.6,,,Lived,Yes,2209,0,0,No
+Surgery,1,529663,38.2,64,28,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypermotile,,,,,Absent,distended small intestine,49,8.6,Cloudy,6.6,Lived,Yes,2208,0,0,Yes
+Surgery,1,529796,,100,30,Cool,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,Significant,<=1 liter,,Absent,distended small intestine,52,6.6,,,Lived,Yes,1124,0,0,No
+Without Surgery,1,528812,,104,24,Cold,Reduced,Pale Pink,>=3 second,Intermittent Severe Pain,Absent,Significant,,<=1 liter,,,Other,73,8.4,,,Was Euhanized,Yes,7111,0,0,No
+Without Surgery,1,529493,38.3,112,16,,Reduced,Bright Red,>=3 second,,,None,None,>1 liter,,,distended large intestine,51,6,Cloudy,1,Was Euhanized,No,5205,0,0,Yes
+Surgery,1,533847,37.8,72,,,Reduced,,<3 second,Continuous Severe Pain,Hypomotile,None,,None,,Normal,Normal,56,80,Clear,2,Lived,Yes,3111,0,0,No
+Without Surgery,1,528996,38.6,52,,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,None,None,,Normal,firm feces in the large intestine ,32,6.6,Clear,5,Lived,No,0,0,0,Yes
+Surgery,9,5277409,39.2,146,96,,,,,,,,,,,,,,,,,Died,Yes,2113,0,0,No
+Surgery,1,529498,,88,,Cool,Reduced,Dark Cyanotic,>=3 second,Continuous Severe Pain,Hypomotile,Significant,None,<=1 liter,,Absent,distended large intestine,63,6.5,Serosanguinous,,Died,Yes,4205,0,0,No
+Without Surgery,9,5288249,39,150,72,,,,,,,,,,,,,47,8.5,,0.1,Lived,Yes,9400,0,0,Yes
+Without Surgery,1,530301,38,60,12,Cool,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,None,None,None,,Increased,Other,47,7,,,Lived,No,3111,0,0,No
+Surgery,1,534069,,120,,Cool,Absent,Pale Cyanotic,<3 second,Intermittent Severe Pain,Absent,Severe,None,None,,,distended large intestine,52,67,Cloudy,2,Was Euhanized,Yes,3205,0,0,No
+Surgery,1,535407,35.4,140,24,Cool,Reduced,Pale Cyanotic,>=3 second,Intermittent Severe Pain,Absent,,Slight,None,,,distended large intestine,57,69,Serosanguinous,2,Was Euhanized,Yes,3205,0,0,No
+Without Surgery,1,529827,,120,,Cold,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,None,None,,Absent,distended large intestine,60,6.5,Serosanguinous,,Died,Yes,3205,0,0,No
+Surgery,1,529888,37.9,60,15,Cool,,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,Slight,>1 liter,,Absent,distended large intestine,65,7.5,,,Lived,Yes,2305,0,0,Yes
+Without Surgery,1,529821,37.5,48,16,Normal,Normal,Normal Pink,<3 second,Alert,Hypermotile,None,None,None,,Normal,,37,6.5,,,Lived,No,0,0,0,No
+Surgery,1,528890,38.9,80,44,Cool,Reduced,Pale Pink,>=3 second,Depressed,Hypomotile,Significant,Slight,>1 liter,7,Decreased,Normal,54,6.5,Serosanguinous,,Died,Yes,7111,0,0,No
+Without Surgery,1,529642,37.2,84,48,Cool,Reduced,Bright Red,>=3 second,Intermittent Severe Pain,Hypermotile,Slight,None,>1 liter,,Increased,Normal,73,5.5,Cloudy,4.1,Died,No,4300,0,0,Yes
+Without Surgery,1,529766,38.6,46,,Normal,Normal,Bright Pink,<3 second,Alert,Hypomotile,Slight,None,None,,,Other,49,9.1,Clear,1.6,Lived,No,3111,0,0,Yes
+Surgery,1,527706,37.4,84,36,Normal,,Pale Pink,>=3 second,Intermittent Mild Pain,Hypomotile,Slight,,,,Absent,distended large intestine,,,Serosanguinous,,Died,Yes,7209,0,0,Yes
+Without Surgery,1,529483,,,,Normal,Normal,Pale Pink,<3 second,Alert,Hypomotile,None,,,,Increased,Other,43,7.7,,,Lived,No,3111,0,0,No
+Without Surgery,1,530544,38.6,40,20,,,,<3 second,,,,,,,,,41,6.4,,,Lived,No,3111,0,0,Yes
+Without Surgery,1,529461,40.3,114,36,Cool,Reduced,Normal Pink,>=3 second,Depressed,Hypomotile,Significant,Slight,None,7,Normal,distended large intestine,57,8.1,Serosanguinous,4.5,Was Euhanized,Yes,7400,0,0,Yes
+Surgery,9,5282839,38.6,160,20,Cool,,Bright Red,<3 second,Intermittent Mild Pain,Hypomotile,Severe,Significant,,,Absent,,38,,Cloudy,,Died,Yes,7111,0,0,Yes
+Surgery,1,528872,,,,,,,,,,,,,,,,24,6.7,,,Lived,Yes,3112,0,0,No
+Surgery,1,529640,,64,36,Warm,,Bright Pink,<3 second,Continuous Severe Pain,Hypomotile,Significant,Slight,>1 liter,,,,42,7.7,,,Died,Yes,3209,0,0,No
+Surgery,1,528298,,,20,Cold,Reduced,Pale Pink,,Continuous Severe Pain,Absent,Significant,Slight,,,Absent,distended small intestine,53,5.9,Serosanguinous,,Died,Yes,3205,0,0,Yes
+Without Surgery,1,528904,,96,,Cool,Reduced,Pale Pink,>=3 second,Continuous Severe Pain,Absent,Severe,None,>1 liter,,Absent,distended large intestine,60,,,,Died,Yes,4205,0,0,No
+Without Surgery,1,530438,37.8,48,32,Normal,Normal,Pale Pink,<3 second,Depressed,Hypermotile,,None,None,,Absent,distended large intestine,37,6.7,,,Lived,No,2124,0,0,No
+Without Surgery,1,527957,38.5,60,,Warm,Increased,Normal Pink,<3 second,Alert,Normal,Slight,Slight,None,,Normal,Normal,44,7.7,,,Lived,No,0,0,0,No
+Surgery,1,528630,37.8,88,22,Warm,Normal,Bright Pink,<3 second,Intermittent Mild Pain,,,Slight,,,Absent,,64,8,Clear,6,Died,Yes,3205,0,0,Yes
+Without Surgery,1,534293,38.2,130,16,Cold,Reduced,Pale Cyanotic,>=3 second,Depressed,Absent,Severe,None,None,,,,65,82,Cloudy,2,Was Euhanized,No,2209,1400,0,No
+Surgery,1,529667,39,64,36,Cool,Normal,Pale Cyanotic,>=3 second,Intermittent Mild Pain,Hypomotile,Slight,None,>1 liter,7,Absent,distended large intestine,44,7.5,Serosanguinous,5,Lived,Yes,2113,0,0,Yes
+Surgery,1,534885,,60,36,Cool,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,None,None,,Decreased,distended small intestine,26,72,Cloudy,1,Lived,Yes,2208,0,0,No
+Without Surgery,1,534784,37.9,72,,Normal,Normal,Bright Red,>=3 second,Intermittent Mild Pain,Hypomotile,None,None,<=1 liter,2,Decreased,distended small intestine,58,74,Clear,2,Lived,Yes,2322,0,0,No
+Without Surgery,1,528931,38.4,54,24,Normal,Normal,Normal Pink,<3 second,Alert,Hypomotile,None,Slight,None,,Decreased,Other,49,7.2,Clear,,Lived,No,3111,0,0,Yes
+Without Surgery,1,529777,,52,16,Normal,,Pale Pink,<3 second,,,,Slight,<=1 liter,5.5,,,55,7.2,,,Lived,No,2124,0,0,No
+Without Surgery,1,530276,38,48,12,Normal,Normal,Normal Pink,<3 second,Alert,Hypomotile,,None,None,,Decreased,Other,42,6.3,Cloudy,4.1,Lived,No,3111,0,0,Yes
+Without Surgery,1,528214,37,60,20,Cool,,,<3 second,Intermittent Mild Pain,,Significant,Slight,>1 liter,4.5,Absent,distended small intestine,43,7.6,,,Was Euhanized,Yes,2209,0,0,Yes
+Surgery,1,529424,37.8,48,28,Normal,Normal,Normal Pink,<3 second,Alert,Normal,None,Slight,,,Normal,Normal,46,5.9,Cloudy,7,Lived,No,0,0,0,Yes
+Surgery,1,5299253,37.7,56,,,,,,,,,,,,,,,,,,Died,Yes,2113,0,0,No
+Surgery,1,528469,38.1,52,24,Normal,Normal,Bright Red,<3 second,Intermittent Severe Pain,Hypomotile,None,Slight,<=1 liter,7,Normal,,54,7.5,Cloudy,2.6,Died,Yes,2112,0,0,Yes
+Surgery,9,5292929,,,,,,,,,,,,,,,,37,4.9,,,Died,Yes,11124,0,0,No
+Surgery,9,534092,39.7,100,,Cool,Reduced,Bright Red,>=3 second,Depressed,Hypomotile,,,,,,,48,57,Cloudy,2,Was Euhanized,Yes,1400,0,0,No
+Surgery,1,534615,37.6,38,20,Cool,Reduced,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,,,,Decreased,,37,68,,,Lived,Yes,3205,0,0,No
+Without Surgery,1,534753,38.7,52,20,Warm,,Normal Pink,<3 second,Alert,Hypermotile,None,None,None,,Normal,Normal,33,77,,,Lived,No,0,0,0,No
+Surgery,1,530693,,,,Cool,Reduced,Pale Pink,3,Continuous Severe Pain,Hypomotile,Significant,Significant,>1 liter,,Absent,distended large intestine,46,5.9,,,Died,Yes,3025,0,0,No
+Surgery,1,527463,37.5,96,18,Normal,Reduced,Dark Cyanotic,>=3 second,Intermittent Mild Pain,Absent,Slight,Slight,<=1 liter,5,,distended small intestine,69,8.9,Serosanguinous,,Lived,Yes,2208,0,0,Yes
+Surgery,1,527518,36.4,98,35,Cool,Reduced,Pale Cyanotic,<3 second,Intermittent Severe Pain,Hypomotile,Slight,,,,Absent,distended small intestine,47,6.4,Serosanguinous,3.6,Died,Yes,2205,0,0,Yes
+Surgery,1,534756,37.3,40,,,Reduced,Normal Pink,<3 second,Depressed,Hypomotile,Slight,Significant,None,,Decreased,distended large intestine,36,,Serosanguinous,2,Lived,Yes,3111,0,0,No
+Surgery,9,5290759,38.1,100,80,Cool,Normal,Bright Pink,<3 second,Intermittent Mild Pain,Absent,None,,,,Normal,,36,5.7,,,Lived,Yes,3111,0,0,No
+Surgery,1,5279822,38,,24,Cool,Reduced,Dark Cyanotic,>=3 second,Continuous Severe Pain,,,None,None,,,,68,7.8,,,Died,Yes,3205,0,0,No
+Surgery,1,529849,37.8,60,80,Normal,Reduced,Bright Pink,>=3 second,Depressed,Hypomotile,Significant,?,>1 liter,5.5,Absent,,40,4.5,Cloudy,,Lived,Yes,5206,0,0,Yes
+Without Surgery,1,529304,38,54,30,Warm,Reduced,Pale Pink,3,Intermittent Mild Pain,Hypermotile,Slight,Slight,>1 liter,,,distended small intestine,45,6.2,,,Lived,No,400,0,0,No
+Surgery,1,529388,,88,40,Cool,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Significant,Significant,,,Absent,distended large intestine,50,7.7,Serosanguinous,1.4,Died,Yes,4205,0,0,Yes
+Without Surgery,1,528006,,40,16,,,,<3 second,,,,,,,,,50,7,Cloudy,3.9,Was Euhanized,Yes,2208,0,0,Yes
+Without Surgery,1,529703,39,64,40,Normal,Normal,Bright Red,<3 second,Intermittent Mild Pain,Hypomotile,Slight,Slight,None,,Decreased,firm feces in the large intestine ,42,7.5,Cloudy,2.3,Lived,No,5000,0,0,Yes
+Without Surgery,1,535381,38.3,42,10,Normal,Normal,Normal Pink,<3 second,Alert,Hypermotile,None,,,,,,38,61,,,Lived,No,0,0,0,No
+Without Surgery,1,534197,38,52,16,,,,,Depressed,,,,<=1 liter,1,Normal,Normal,53,86,,,Lived,Yes,2322,0,0,No
+Without Surgery,1,529461,40.3,114,36,Cool,Reduced,Normal Pink,>=3 second,Depressed,Hypomotile,Significant,Slight,None,7,Normal,distended large intestine,57,8.1,Serosanguinous,4.5,Died,Yes,3205,0,0,Yes
+Without Surgery,1,530251,38.8,50,20,Cool,Normal,Normal Pink,<3 second,Alert,Hypermotile,None,Slight,None,,Decreased,Normal,42,6.2,,,Lived,No,0,0,0,No
+Without Surgery,1,530310,,,,Cool,Reduced,Normal Pink,<3 second,Continuous Severe Pain,Hypomotile,Significant,None,None,,Absent,distended large intestine,38,6.5,,,Died,Yes,3205,0,0,No
+Without Surgery,1,528729,37.5,48,30,Cold,Normal,Pale Pink,<3 second,,Normal,None,None,None,,Normal,Normal,48,8.6,,,Lived,No,0,0,0,No
+Surgery,1,535158,37.3,48,20,,Normal,Bright Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,Slight,None,,Decreased,distended large intestine,41,69,,,Lived,Yes,3205,0,0,No
+Without Surgery,1,530319,,84,36,,,Pale Pink,<3 second,,Hypomotile,None,Slight,None,,Decreased,Other,44,8.5,,,Lived,Yes,3111,0,0,No
+Surgery,1,534145,38.1,88,32,Cool,Reduced,Pale Cyanotic,<3 second,Depressed,Hypomotile,Significant,,<=1 liter,1,Absent,distended large intestine,55,60,,,Was Euhanized,No,3205,0,0,No
+Without Surgery,1,534135,37.7,44,40,Warm,Normal,Pale Pink,<3 second,Alert,Hypomotile,Slight,None,None,,Normal,distended large intestine,41,60,,,Lived,No,0,0,0,No
+Without Surgery,1,530002,39.6,108,51,Cool,Reduced,Dark Cyanotic,>=3 second,Depressed,Absent,Significant,None,>1 liter,,Decreased,distended large intestine,59,8,Cloudy,2.6,Lived,No,4300,0,0,Yes
+Surgery,1,535364,38.2,40,16,Cool,Reduced,Normal Pink,<3 second,Alert,Hypomotile,,,,,Normal,Normal,34,66,,,Lived,No,0,0,0,No
+Surgery,1,534899,,60,20,Cold,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,,,None,,Absent,distended large intestine,,,,,Was Euhanized,Yes,3205,0,0,No
+Without Surgery,1,534938,38.3,40,16,Cool,,Normal Pink,<3 second,Depressed,,,,,,,,37,57,,,Lived,No,0,0,0,No
+Surgery,9,5292489,38,140,68,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,,,,Increased,Normal,39,5.3,,,Lived,Yes,7111,0,0,No
+Surgery,1,527563,37.8,52,24,Normal,Reduced,Pale Pink,<3 second,Intermittent Severe Pain,Absent,None,Slight,<=1 liter,5.7,Increased,distended large intestine,48,6.6,Clear,3.7,Died,Yes,5400,0,0,No
+Surgery,1,530381,,70,36,Normal,,Pale Pink,>=3 second,Depressed,Hypomotile,Slight,Slight,,,Absent,distended large intestine,36,7.3,,,Lived,Yes,31110,0,0,No
+Surgery,1,528668,38.3,52,96,,Reduced,Pale Pink,<3 second,,,,None,None,,Normal,,43,6.1,,,Lived,Yes,3209,0,0,Yes
+Without Surgery,1,529764,37.3,50,32,Normal,Normal,Pale Pink,<3 second,Alert,Hypomotile,Slight,,,,Normal,,44,7,,,Lived,No,0,0,0,No
+Surgery,1,533696,38.7,60,32,Cold,Reduced,Bright Pink,>=3 second,Intermittent Severe Pain,Absent,Severe,,,,Absent,distended large intestine,53,64,Serosanguinous,2,Was Euhanized,Yes,3205,0,0,No
+Surgery,9,5297379,38.4,84,40,Cool,Reduced,Bright Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,None,None,,,,36,6.6,Cloudy,2.8,Died,Yes,2205,0,0,Yes
+Surgery,1,527544,,70,16,Cool,Absent,Bright Red,>=3 second,Depressed,Hypomotile,Slight,Slight,None,,Absent,distended large intestine,60,7.5,,,Died,Yes,2112,0,0,No
+Surgery,1,533736,38.3,40,16,Cool,,,<3 second,Alert,Hypomotile,Slight,,,,,,38,58,Clear,2,Lived,Yes,3111,7111,0,No
+Surgery,1,534963,,40,,Warm,Normal,Normal Pink,<3 second,Alert,Hypomotile,None,None,None,,,distended large intestine,39,56,,,Lived,Yes,3111,0,0,No
+Surgery,1,527933,36.8,60,28,,,,,,,,,,,,,,,,10,Died,Yes,3205,0,0,Yes
+Surgery,1,532349,38.4,44,24,Cool,,Pale Cyanotic,,Continuous Severe Pain,Absent,Significant,Slight,None,,Absent,distended large intestine,50,77,,,Lived,Yes,3205,0,0,No
+Without Surgery,1,533723,,,40,Cool,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,,,,,,45,70,,,Lived,No,0,0,0,No
+Surgery,1,535208,38,44,12,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,Slight,None,,Absent,distended large intestine,42,65,,,Lived,Yes,3205,3111,0,No
+Without Surgery,1,5290482,39.5,,,Cool,Reduced,Pale Cyanotic,>=3 second,Intermittent Mild Pain,Absent,Significant,,<=1 liter,5.5,Absent,distended large intestine,,6.7,Clear,,Was Euhanized,Yes,4205,0,0,No
+Surgery,1,533983,36.5,78,30,Normal,,Normal Pink,<3 second,Continuous Severe Pain,Hypomotile,None,,None,,,,34,75,Cloudy,1,Lived,Yes,3112,6112,0,No
+Without Surgery,1,535166,38.1,56,20,Warm,Normal,Bright Pink,<3 second,Alert,Hypomotile,None,None,None,,,,46,70,,,Lived,No,0,0,0,No
+Surgery,1,528682,39.4,54,66,Normal,Normal,Bright Pink,<3 second,Depressed,Hypomotile,Slight,None,None,,Decreased,distended small intestine,39,6,Cloudy,,Lived,Yes,2206,0,0,Yes
+Surgery,1,534556,38.3,80,40,,,Dark Cyanotic,>=3 second,Intermittent Severe Pain,Hypomotile,None,,>1 liter,,Normal,distended small intestine,67,10.2,Cloudy,1,Was Euhanized,Yes,2208,0,0,No
+Without Surgery,1,534579,38.7,40,28,Warm,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypermotile,None,,,,Normal,,39,62,Clear,1,Lived,No,0,0,0,No
+Surgery,1,530360,38.2,64,24,Normal,Normal,Pale Pink,<3 second,Intermittent Severe Pain,Absent,Significant,Slight,None,,Absent,distended small intestine,45,7.5,Clear,2,Died,Yes,3205,0,0,Yes
+Without Surgery,1,529840,37.6,48,20,Cool,Normal,Pale Cyanotic,<3 second,Alert,Hypermotile,Significant,Slight,None,,Normal,Normal,37,5.5,,,Was Euhanized,Yes,2205,0,0,No
+Surgery,1,528461,38,42,68,Cold,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,Slight,>1 liter,,Absent,distended small intestine,41,7.6,,,Lived,Yes,2205,0,0,No
+Surgery,1,530384,38.7,,,Cool,Normal,Pale Pink,<3 second,Continuous Severe Pain,Absent,Slight,,,,,,33,6.5,Cloudy,,Lived,Yes,31110,0,0,No
+Surgery,1,5262541,37.4,50,32,Cool,Reduced,,<3 second,Intermittent Severe Pain,Absent,None,Slight,None,,Normal,,45,7.9,Cloudy,1,Lived,Yes,2208,0,0,Yes
+Surgery,1,535330,37.4,84,20,,,Pale Pink,<3 second,Depressed,Hypomotile,Significant,,,,,,31,61,,1,Was Euhanized,No,2208,0,0,No
+Surgery,1,527698,38.4,49,,,,Normal Pink,<3 second,,,None,Slight,None,,,,44,7.6,,,Lived,Yes,2206,0,0,No
+Surgery,1,528964,37.8,30,12,,,,,,,,,,,,,,,,,Died,Yes,2113,0,0,No
+Without Surgery,1,530670,37.6,88,36,Cool,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,None,<=1 liter,1.5,,,44,6,,,Died,Yes,1400,0,0,No
+?,1,534572,38,48,20,Cool,Normal,Pale Pink,<3 second,Intermittent Severe Pain,Hypomotile,None,Slight,None,,Decreased,distended large intestine,43,73,Cloudy,1,,Yes,3111,0,0,No
+Without Surgery,1,530294,37.9,40,24,Normal,Normal,Normal Pink,<3 second,Depressed,Hypomotile,None,,,,,firm feces in the large intestine ,40,5.7,,,Lived,Yes,400,0,0,No
+Surgery,1,527524,,100,,Cool,,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,,Slight,,,Increased,,59,6.3,,,Died,Yes,4205,0,0,No
+Surgery,9,5287179,38.1,136,48,Cool,Reduced,Pale Pink,<3 second,Continuous Severe Pain,Hypermotile,Significant,Slight,>1 liter,4.4,Increased,,33,4.9,Cloudy,2.9,Died,Yes,2205,0,0,Yes
+Surgery,1,530693,,,,Cool,Reduced,Pale Pink,>=3 second,Continuous Severe Pain,Hypomotile,Significant,Significant,>1 liter,,Absent,distended large intestine,46,5.9,,,Died,Yes,3025,0,0,No
+Surgery,1,534324,38,48,,Normal,Normal,Normal Pink,<3 second,Alert,Normal,Severe,Slight,>1 liter,,Absent,distended large intestine,,,,,Lived,Yes,3111,0,0,No
+Without Surgery,1,532349,38,56,,Normal,Increased,Pale Pink,<3 second,Alert,Hypermotile,None,None,None,,Normal,Normal,42,71,,,Lived,No,0,0,0,No
+Without Surgery,1,534491,38,60,32,Normal,Normal,,<3 second,Intermittent Mild Pain,Hypomotile,?,None,None,,,,50,7,Clear,1,Lived,No,0,0,0,No
+Surgery,1,529960,38.1,44,9,Cool,Normal,Normal Pink,<3 second,Depressed,Normal,None,None,None,,Absent,distended large intestine,31,7.3,,,Lived,No,5124,0,0,No
+Without Surgery,1,522979,36,42,30,,,Bright Red,<3 second,,,,,,,,,64,6.8,,,Died,No,1400,0,0,No
+Surgery,1,530402,,120,,Cold,Reduced,Dark Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,,,,Absent,distended large intestine,57,4.5,Serosanguinous,3.9,Died,Yes,3205,0,0,Yes
+Surgery,1,529424,37.8,48,28,Normal,Normal,Normal Pink,>=3 second,Alert,Normal,None,Slight,,,Normal,Normal,46,5.9,Cloudy,7,Lived,No,0,0,0,Yes
+Surgery,1,534519,37.1,84,40,Cool,Reduced,Dark Cyanotic,<3 second,Depressed,Absent,Severe,Significant,>1 liter,2,Absent,distended large intestine,75,81,,,Was Euhanized,No,1400,0,0,No
+Without Surgery,1,535246,,80,32,Cool,Reduced,Bright Pink,<3 second,Depressed,Hypomotile,Significant,Slight,None,,Decreased,,50,80,,,Lived,Yes,0,0,0,No
+Surgery,1,534115,38.2,48,,Normal,Reduced,Pale Pink,<3 second,Intermittent Mild Pain,Absent,Severe,None,<=1 liter,2,Absent,distended large intestine,42,71,,,Lived,Yes,3111,0,0,No
+Without Surgery,1,530001,38,44,12,Warm,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Absent,Significant,None,>1 liter,6.5,Normal,distended small intestine,33,6.5,,,Died,Yes,2209,0,0,No
+Surgery,1,529272,38.3,132,,,Reduced,Dark Cyanotic,>=3 second,Depressed,Absent,Slight,Slight,<=1 liter,6.2,Absent,distended small intestine,57,8,,5.2,Lived,Yes,2112,0,0,Yes
+Without Surgery,1,535314,38.7,48,24,,,,,Alert,Hypermotile,,None,None,,Normal,,34,63,,,Lived,No,0,0,0,No
+Without Surgery,1,533793,38.9,44,14,Cool,Normal,Normal Pink,<3 second,Depressed,Hypomotile,Slight,,,,,Other,33,64,,,Lived,No,0,0,0,No
+Surgery,1,529399,39.3,,,Cold,Reduced,Dark Cyanotic,>=3 second,Intermittent Severe Pain,Absent,Slight,None,<=1 liter,4,Absent,distended small intestine,75,,Serosanguinous,4.3,Died,Yes,2207,0,0,Yes
+Surgery,1,533836,,100,,Cool,Reduced,Pale Cyanotic,>=3 second,,Absent,Severe,Slight,None,2,,,68,64,Serosanguinous,2,Lived,Yes,2209,0,0,No
+Without Surgery,1,528804,38.6,48,20,Cool,Normal,Normal Pink,<3 second,Alert,Hypomotile,Slight,Slight,None,,Decreased,Other,50,7.3,Clear,,Lived,No,3111,0,0,Yes
+Without Surgery,1,535163,38.8,48,40,Normal,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,Severe,Slight,,,,distended large intestine,41,65,,,Lived,Yes,4124,0,0,No
+Without Surgery,1,528247,38,48,20,Cool,Reduced,Pale Cyanotic,<3 second,Alert,Absent,Slight,Slight,,5,,Other,49,8.3,Clear,,Lived,No,400,0,0,Yes
+Without Surgery,1,528996,38.6,52,20,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,None,None,,Normal,firm feces in the large intestine ,36,6.6,Clear,5,Lived,No,0,0,0,Yes
+Surgery,1,533928,37.8,60,24,Normal,,Pale Pink,>=3 second,,Absent,Severe,Slight,<=1 liter,2,,distended large intestine,52,75,,,Was Euhanized,Yes,2205,0,0,No
+Without Surgery,1,528248,38,42,40,Cool,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,None,,,,,,,,,,Lived,No,3111,0,0,No
+Without Surgery,1,528134,,,12,Normal,Normal,Bright Pink,<3 second,Depressed,Hypermotile,Slight,Significant,None,,Normal,firm feces in the large intestine ,44,7.5,Cloudy,,Lived,No,0,0,0,Yes
+Surgery,1,527916,,,,,,,,Intermittent Severe Pain,,,None,None,,,distended large intestine,35,58,Cloudy,1,Lived,Yes,4205,0,0,No
+Surgery,1,530431,38.3,42,24,,,,<3 second,,,,,,,,,40,8.5,,,Died,Yes,7113,0,0,No
+Without Surgery,1,535176,39.5,60,10,Cool,,,>=3 second,Intermittent Mild Pain,Hypomotile,Slight,Slight,None,,Decreased,,38,56,Clear,,Lived,No,0,0,0,No
+Surgery,1,533942,38,66,20,Normal,Reduced,Pale Pink,<3 second,Continuous Severe Pain,Hypomotile,None,None,None,,Decreased,,46,46,Serosanguinous,2,Was Euhanized,Yes,6209,0,0,No
+Surgery,1,528523,38.7,76,,Normal,Normal,Bright Red,>=3 second,Intermittent Mild Pain,Hypomotile,Slight,Slight,>1 liter,,Absent,distended small intestine,50,8,,,Lived,Yes,2208,0,0,Yes
+Surgery,1,534925,39.4,120,48,,,Bright Red,<3 second,,Hypomotile,Significant,None,,,Absent,,56,64,Clear,2,Was Euhanized,No,1400,0,0,No
+Surgery,1,527916,38.3,40,18,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypermotile,None,,,,Increased,Normal,43,5.9,Clear,,Lived,No,0,0,0,Yes
+Without Surgery,1,528299,,44,24,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,None,Slight,None,,,Normal,,6.3,,,Lived,No,3111,0,0,No
+Surgery,1,530254,38.4,104,40,Normal,Normal,Pale Pink,<3 second,Depressed,Absent,Slight,Slight,<=1 liter,6.5,,distended small intestine,55,8.5,,,Lived,Yes,2124,0,0,No
+Surgery,1,535085,,65,24,,,,>=3 second,Continuous Severe Pain,,Severe,Significant,None,,,distended large intestine,,,,,Was Euhanized,Yes,3205,0,0,No
+Without Surgery,1,532985,37.5,44,20,Normal,Normal,Pale Pink,<3 second,,Hypermotile,None,,,,Normal,,35,7.2,,,Lived,No,0,0,0,No
+Without Surgery,1,527677,39,86,16,Cool,Reduced,Bright Red,,Intermittent Mild Pain,Hypomotile,Significant,,>1 liter,,,,68,5.8,Serosanguinous,6,Died,Yes,5400,0,0,Yes
+Surgery,1,535292,38.5,129,48,Cool,Reduced,Pale Pink,<3 second,Depressed,Absent,Significant,None,<=1 liter,2,,,57,66,Serosanguinous,2,Lived,Yes,2206,0,0,No
+Surgery,1,529729,,104,,Cool,Reduced,Bright Red,>=3 second,Depressed,Absent,Significant,,<=1 liter,,Absent,distended small intestine,69,8.6,Cloudy,3.4,Died,Yes,2207,0,0,Yes
+Without Surgery,1,518476,,,,Cool,Absent,Dark Cyanotic,,Intermittent Severe Pain,,Severe,,,,,,,,,,Died,Yes,3400,0,0,Yes
+Surgery,1,527929,,,,,,,,,,,,,,,,,,,,Lived,Yes,2208,0,0,No
+Surgery,1,535130,38.2,60,30,Normal,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,None,Slight,None,,Decreased,Other,48,66,,,Lived,Yes,6112,0,0,No
+Surgery,1,523190,,68,14,,,Pale Cyanotic,<3 second,Intermittent Severe Pain,,,,None,4.3,,,,,Cloudy,2.8,Died,Yes,4205,0,0,Yes
+Surgery,1,533968,,60,30,Cool,Reduced,Pale Cyanotic,>=3 second,Continuous Severe Pain,Absent,Severe,None,None,,Absent,,45,70,Serosanguinous,2,Lived,Yes,6111,3111,0,No
+Without Surgery,1,528151,38.5,100,,Cool,Reduced,Bright Red,>=3 second,Intermittent Severe Pain,Hypomotile,Severe,Slight,None,,Absent,distended large intestine,,,,,Was Euhanized,No,1111,0,0,Yes
+Surgery,1,530239,38.4,84,30,Cool,Normal,Bright Red,>=3 second,Intermittent Severe Pain,Hypomotile,Significant,Slight,<=1 liter,6.5,Absent,distended small intestine,47,7.5,Serosanguinous,,Died,Yes,2300,0,0,No
+Without Surgery,1,528305,37.8,48,14,,,Normal Pink,<3 second,Intermittent Mild Pain,,Slight,None,<=1 liter,5.3,Normal,,35,7.5,,,Lived,No,3111,0,0,Yes
+Surgery,1,5279822,38,,24,Cool,Reduced,Dark Cyanotic,>=3 second,Continuous Severe Pain,,Severe,None,None,,,,68,7.8,,,Died,Yes,2205,0,0,No
+Without Surgery,1,534857,37.8,56,16,Normal,Normal,Bright Pink,<3 second,Depressed,Hypermotile,None,Slight,None,,Normal,,44,68,Clear,1,Lived,No,0,0,0,No
+Without Surgery,1,534053,38.2,68,32,Warm,Increased,Bright Pink,<3 second,Alert,Hypermotile,None,Significant,None,,Normal,Normal,43,65,,,Lived,No,0,0,0,No
+Surgery,1,534833,38.5,120,60,Cold,Reduced,Dark Cyanotic,>=3 second,,Hypomotile,,,,,,,54,,,,Lived,Yes,5400,0,0,No
+Surgery,1,5278331,39.3,64,90,Warm,Reduced,Normal Pink,<3 second,,Hypomotile,None,None,>1 liter,,,,39,6.7,,,Lived,Yes,21110,0,0,No
+Surgery,1,527365,38.4,80,30,Cold,Reduced,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,Significant,<=1 liter,,Absent,distended large intestine,32,6.1,Serosanguinous,4.3,Lived,Yes,7209,0,0,Yes
+Surgery,1,533887,38.5,60,,Normal,Normal,,<3 second,,Hypermotile,None,,,,,,33,53,Clear,,Lived,Yes,4111,0,0,No
+Surgery,1,5299603,38.3,60,16,Cool,Normal,Normal Pink,<3 second,Depressed,Hypermotile,None,Slight,>1 liter,3,Normal,distended small intestine,30,6,Clear,3,Lived,Yes,31110,0,0,No
+Surgery,1,528742,37.1,40,8,,Normal,Pale Cyanotic,<3 second,Intermittent Mild Pain,Hypomotile,None,None,None,,Decreased,firm feces in the large intestine ,23,6.7,Serosanguinous,,Lived,Yes,3133,0,0,Yes
+Without Surgery,9,5287279,?,100,44,Warm,Normal,Normal Pink,<3 second,Intermittent Severe Pain,Hypermotile,None,?,?,,Normal,,37,4.7,,,Lived,No,7111,0,0,No
+Surgery,1,534788,38.2,48,18,Normal,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypomotile,Significant,None,>1 liter,,Absent,,48,74,Clear,2,Lived,Yes,5111,0,0,No
+Surgery,1,529373,?,60,48,Cool,Reduced,Pale Cyanotic,>=3 second,Intermittent Severe Pain,Hypomotile,Severe,?,?,,,,58,7.6,,,Died,Yes,3205,0,0,No
+Without Surgery,1,534163,37.9,88,24,Normal,Normal,Bright Pink,<3 second,Depressed,Normal,None,?,?,,Absent,Normal,37,56,,,Lived,No,0,0,0,No
+Without Surgery,1,533697,38,44,12,Cool,Normal,Normal Pink,?,?,Hypermotile,Slight,?,?,,Normal,,42,64,,,Lived,No,0,0,0,No
+Without Surgery,1,529628,38.5,60,20,Normal,Normal,Bright Red,>=3 second,Depressed,Normal,None,Slight,None,,Increased,firm feces in the large intestine ,63,7.5,Cloudy,2.3,Was Euhanized,No,300,0,0,Yes
+Without Surgery,1,521399,38.5,96,36,Cool,Reduced,,>=3 second,Depressed,Absent,Slight,None,>1 liter,,Absent,distended large intestine,70,8.5,,,Died,Yes,1400,0,0,Yes
+Without Surgery,1,533885,38.3,60,20,Normal,Normal,Normal Pink,>=3 second,Alert,Hypomotile,None,,,,Decreased,,34,66,,,Lived,No,0,0,0,No
+Without Surgery,1,534157,38.5,60,40,Cool,Normal,Bright Pink,<3 second,Depressed,Hypermotile,Slight,,,,Decreased,Other,49,59,,,Lived,No,0,0,0,No
+Surgery,1,528047,37.3,48,12,Normal,,Pale Pink,<3 second,Intermittent Mild Pain,Hypermotile,Significant,Slight,None,,Decreased,firm feces in the large intestine ,40,6.6,Cloudy,,Lived,Yes,3205,0,0,Yes
+Surgery,1,528641,38.5,86,,Normal,Normal,Pale Pink,<3 second,Intermittent Severe Pain,Absent,Significant,Slight,None,,Decreased,distended large intestine,45,7.4,Clear,3.4,Died,Yes,3209,0,0,Yes
+Surgery,1,534073,37.5,48,40,,,,,,,,None,None,,,distended large intestine,41,55,Serosanguinous,2,Was Euhanized,Yes,2208,0,0,No
+Without Surgery,1,529685,37.2,36,9,Normal,Normal,Normal Pink,<3 second,Depressed,Hypomotile,None,Slight,None,,Absent,Normal,35,5.7,,,Lived,No,31110,0,0,No
+Surgery,1,529528,39.2,,23,Cool,Normal,Pale Pink,<3 second,Intermittent Severe Pain,Absent,Slight,Slight,,,,,36,6.6,Clear,3,Lived,Yes,3115,0,0,Yes
+Without Surgery,1,528151,38.5,100,,Cool,Reduced,Bright Red,>=3 second,Intermittent Severe Pain,Hypomotile,Severe,Slight,None,,Absent,distended large intestine,,,,,Was Euhanized,No,4124,0,0,No
+Surgery,1,535137,38.5,96,30,Warm,Reduced,Pale Cyanotic,>=3 second,Intermittent Severe Pain,Absent,Significant,Slight,None,,Decreased,distended large intestine,50,65,,,Lived,Yes,6111,3112,0,No
+Surgery,1,530297,,,,,,,,,,,,,,,,45,8.7,,,Died,Yes,2208,0,0,No
+Surgery,1,535338,37.8,88,80,Cool,Reduced,Bright Red,>=3 second,?,Hypomotile,Significant,Slight,<=1 liter,,Absent,distended large intestine,64,89,,,Was Euhanized,Yes,3205,0,0,No
+Without Surgery,1,534478,37.5,44,10,Cool,Normal,Normal Pink,<3 second,Intermittent Mild Pain,Hypermotile,Slight,Slight,,,Decreased,firm feces in the large intestine ,43,51,Clear,1,Lived,No,0,0,0,No
+Surgery,1,530401,37.9,68,20,,Normal,Bright Pink,<3 second,Depressed,Absent,Slight,,,,Normal,distended large intestine,45,4,Serosanguinous,2.8,Died,Yes,5400,0,0,Yes
+Surgery,1,529893,38,86,24,Cold,Reduced,Pale Cyanotic,<3 second,Depressed,Absent,Severe,None,None,,Absent,distended large intestine,45,5.5,Clear,10.1,Died,Yes,3111,0,0,Yes
+Surgery,9,5294369,38.9,120,30,Normal,Reduced,Bright Pink,>=3 second,Intermittent Mild Pain,Hypomotile,Significant,Significant,None,3,,,47,6.3,Clear,,Lived,No,2124,0,0,No
+Surgery,1,528183,37.6,45,12,Cool,Normal,Pale Pink,<3 second,?,Normal,Slight,Slight,None,,Normal,distended small intestine,39,7,Cloudy,1.5,Lived,Yes,2112,0,0,Yes
+Without Surgery,1,529183,38.6,56,32,Warm,Normal,Normal Pink,<3 second,Alert,Hypermotile,None,Slight,?,,Increased,?,40,7,Cloudy,2.1,Lived,No,0,0,0,Yes
+Surgery,1,529135,37.8,40,12,Normal,Normal,Normal Pink,<3 second,Alert,Normal,None,Slight,None,,Normal,Other,38,7,,,Lived,Yes,3111,0,0,No
+Without Surgery,1,528977,,,,,,,,,,,,,,,,,,,,Lived,No,0,0,0,No
+Surgery,1,5279441,38,76,18,,,,>=3 second,,,,,,,,,71,11,,,Lived,Yes,2209,0,0,Yes
+Surgery,1,535240,38.1,40,36,Normal,Increased,Bright Pink,<3 second,Depressed,Normal,,,,,,,,,,,Was Euhanized,Yes,3112,0,0,No
+Surgery,1,529736,,52,28,Cool,Reduced,Pale Cyanotic,<3 second,Intermittent Mild Pain,Absent,Significant,Slight,None,,Absent,distended small intestine,37,8.1,,,Lived,Yes,2111,0,0,No
+Surgery,1,535029,39.2,88,58,Cold,Absent,,>=3 second,Continuous Severe Pain,Absent,,,,,,,,,Cloudy,2,Was Euhanized,No,3205,0,0,No
+Surgery,1,535031,38.5,92,40,Cold,Reduced,,<3 second,Depressed,Absent,Significant,,,,Absent,,46,67,Cloudy,2,Lived,Yes,2208,0,0,No
+Surgery,1,528800,,112,13,Cold,Absent,Pale Cyanotic,<3 second,Depressed,Hypomotile,None,Slight,None,4.5,Absent,distended small intestine,60,6.3,Serosanguinous,,Lived,Yes,2205,0,0,Yes
+Surgery,1,528178,37.7,66,12,Normal,Normal,Pale Pink,<3 second,Intermittent Mild Pain,Hypomotile,Slight,Slight,,,Absent,distended small intestine,31.5,6.2,Cloudy,1.6,Lived,Yes,2208,0,0,Yes
